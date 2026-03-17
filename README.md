@@ -34,4 +34,4 @@
 ### 📊 গ্লোবাল কানেক্টিভিটি ও স্বীকৃতি
 আমি গর্বিত যে আমার এই ক্ষুদ্র উদ্যোগ আজ **Google Cloud Innovator** এবং **NVIDIA Developer** ইকোসিস্টেমের সাথে যুক্ত। আমরা ডিজিটাল ডাটা এবং এনালিটিক্স ব্যবহার করে কৃষি পণ্যকে বিশ্বমানের পর্যায়ে নিয়ে যাচ্ছি।
 
-[🔗 আমার অমরত্বের মহাকাব্য PDF দেখুন]([আপনার_ড্রাইভ_লিঙ্ক](https://drive.google.com/file/d/144NCtU_WUm1cWclRqA6ER-8byimdFu30/view?usp=drivesdk)
+🔗 আমার অমরত্বের মহাকাব্য PDF দেখুন]([আপনার_ড্রাইভ_লিঙ্ক](https://drive.google.com/file/d/144NCtU_WUm1cWclRqA6ER-8byimdFu30/view?usp=drivesdk)
